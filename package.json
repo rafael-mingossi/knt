@@ -1,0 +1,15 @@
+{
+  "name": "knt",
+  "version": "1.0.0",
+  "description": "backend of knt",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
